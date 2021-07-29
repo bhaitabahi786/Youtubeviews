@@ -31,6 +31,6 @@ sudo aut            #to run
 
 # For setup watch my youtube vedio 
 
-**link : **
+link : https://youtu.be/H6b1Q7E-g4k
 
 
