@@ -23,7 +23,7 @@ sudo aut            #to run
 
 #### Make sure Auto_Tor_IP_changer is running by **sudo aut** .
 
-# Its not for windows sry make your own changes code is easy.
+# Its not for windows sry make your own changes code is easy. :sweat_smile: :wink: :innocent:
 
 # For setup watch my youtube vedio 
 
