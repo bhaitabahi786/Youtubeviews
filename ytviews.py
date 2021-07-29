@@ -87,6 +87,9 @@ def openterminal(totaltime,no_time):
     print('vpn started success fully')
 
 
+result = open("title.txt", "r")
+print(result.read()) 
+
 userinput()
 
 
